@@ -1,9 +1,13 @@
 body{
     text-align: center;
-    font-family: 'New Rocker';
-    background: darkred;
-    color: indianred;
+    font-family: 'Courier New', monospace;font-weight:bold;
+    background-color: rgb(83, 83, 249);
+    background-image: url('good.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(83, 83, 249);
 }
 img{
-    width: 430px;
+    width: 800px;
 }
